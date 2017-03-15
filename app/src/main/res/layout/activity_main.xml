@@ -25,8 +25,10 @@
                 android:id="@+id/id_logo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignParentLeft="false"
-                android:src="@mipmap/ic_launcher" />
+                android:src="@mipmap/ic_launcher"
+                android:layout_marginStart="31dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true" />
 
 
             <TextView
@@ -46,8 +48,8 @@
                 android:layout_height="wrap_content"
                 android:layout_alignBottom="@+id/id_logo"
                 android:layout_alignStart="@+id/id_tv_link"
-                android:textColor="@android:color/white"
-                android:text="Apellido: Molanos" />
+                android:text="@string/str_Apellido"
+                android:textColor="@android:color/white" />
 
             <TextView
                 android:id="@+id/textView2"
@@ -55,9 +57,9 @@
                 android:layout_height="wrap_content"
                 android:layout_alignStart="@+id/textView"
                 android:layout_below="@+id/textView"
-                android:textColor="@android:color/white"
                 android:layout_marginTop="15dp"
-                android:text="Edad: 30" />
+                android:text="Edad: 30"
+                android:textColor="@android:color/white" />
 
             <TextView
                 android:id="@+id/textView3"
@@ -65,8 +67,8 @@
                 android:layout_height="wrap_content"
                 android:layout_alignStart="@+id/textView2"
                 android:layout_centerVertical="true"
-                android:textColor="@android:color/white"
-                android:text="Telefono: 3145623258" />
+                android:text="Telefono: 3145623258"
+                android:textColor="@android:color/white" />
 
 
         </RelativeLayout>

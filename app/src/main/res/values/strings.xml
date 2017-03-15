@@ -4,4 +4,5 @@
     <string name="str_login_password">Comentario</string>
     <string name="str_login_username">Correo electronico</string>
     <string name="str_Nombre">Nombre: Jhonatan</string>
+    <string name="str_Apellido">Apellido: Cortales</string>
 </resources>
