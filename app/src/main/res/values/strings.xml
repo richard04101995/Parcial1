@@ -5,4 +5,8 @@
     <string name="str_login_username">Correo electronico</string>
     <string name="str_Nombre">Nombre: Jhonatan</string>
     <string name="str_Apellido">Apellido: Cortales</string>
+    <string name="str_Nombre2">Nombre: Yaritza</string>
+    <string name="str_Apellido2">Apellido: Vallejo</string>
+    <string name="str_años2">Años: 21</string>
+    <string name="str_telefono2">Telefono: 3107851242</string>
 </resources>
