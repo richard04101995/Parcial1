@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Parcial1</string>
+    <string name="str_login_btn_in">Actualizar</string>
+    <string name="str_login_password">Comentario</string>
+    <string name="str_login_username">Correo electronico</string>
+    <string name="str_Nombre">Nombre: Jhonatan</string>
 </resources>
